@@ -1,0 +1,8 @@
+D:\ccc\Graficcc\obj\Release\ResolveAssemblyReference.cache
+D:\ccc\Graficcc\obj\Release\Graficcc.Properties.Resources.resources
+D:\ccc\Graficcc\obj\Release\Graficcc.csproj.GenerateResource.Cache
+D:\ccc\Graficcc\bin\Release\Graficcc.exe
+D:\ccc\Graficcc\bin\Release\Graficcc.pdb
+D:\ccc\Graficcc\obj\Release\Graficcc.exe
+D:\ccc\Graficcc\obj\Release\Graficcc.pdb
+D:\ccc\Graficcc\obj\Release\Graficcc.MainForm.resources

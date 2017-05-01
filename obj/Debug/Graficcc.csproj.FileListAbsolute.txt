@@ -1,0 +1,17 @@
+D:\ccc\Graficcc\bin\Debug\Graficcc.exe
+D:\ccc\Graficcc\bin\Debug\Graficcc.pdb
+D:\ccc\Graficcc\obj\Debug\ResolveAssemblyReference.cache
+D:\ccc\Graficcc\obj\Debug\Graficcc.Properties.Resources.resources
+D:\ccc\Graficcc\obj\Debug\Graficcc.csproj.GenerateResource.Cache
+D:\ccc\Graficcc\obj\Debug\Graficcc.exe
+D:\ccc\Graficcc\obj\Debug\Graficcc.pdb
+D:\ccc\Graficcc\obj\Debug\Graficcc.MainForm.resources
+E:\prog\cs\Graficcc\bin\Debug\Graficcc.exe.config
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.exe
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.pdb
+E:\prog\cs\Graficcc\bin\Debug\Graficcc.exe
+E:\prog\cs\Graficcc\bin\Debug\Graficcc.pdb
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.csprojResolveAssemblyReference.cache
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.MainForm.resources
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.Properties.Resources.resources
+E:\prog\cs\Graficcc\obj\Debug\Graficcc.csproj.GenerateResource.Cache
